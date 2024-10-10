@@ -1,0 +1,2 @@
+# git
+idea de ia
